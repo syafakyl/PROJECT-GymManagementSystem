@@ -1,0 +1,39 @@
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.AssemblyReference.cache
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.Form1.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.pdb
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\bin\Debug\ReaLTaiizor.dll
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\bin\Debug\ReaLTaiizor.xml
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManag.86DFA6C6.Up2Date
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormAddMember.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormDashboard.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormInventory.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormPayment.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormPersonalTrain.resources
+C:\Users\Eki Iman\Documents\CCIT FTUI\SEMESTER 4 WEB DEV\Project1\GymManagement\GymManagement\obj\Debug\GymManagement.FormViewMembers.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\bin\Debug\ReaLTaiizor.dll
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\bin\Debug\ReaLTaiizor.xml
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.AssemblyReference.cache
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.Form1.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormAddMember.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormDashboard.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormInventory.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormPayment.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormPersonalTrain.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.FormViewMembers.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.login.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManag.86DFA6C6.Up2Date
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\Najwa\Downloads\GymManagement\GymManagement\GymManagement\obj\Debug\GymManagement.pdb
